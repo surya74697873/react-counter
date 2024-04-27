@@ -1,3 +1,6 @@
+#Live link of the React-Counter
+https://surya74697873.github.io/react-counter/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
